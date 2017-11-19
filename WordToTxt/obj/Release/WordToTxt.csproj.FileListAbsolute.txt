@@ -1,0 +1,13 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\bin\Release\WordToTxt.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\bin\Release\WordToTxt.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\bin\Release\WordToTxt.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\bin\Release\office.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\bin\Release\stdole.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\obj\Release\WordToTxt.Form1.resources
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\obj\Release\WordToTxt.Properties.Resources.resources
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\obj\Release\WordToTxt.csproj.GenerateResource.Cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\obj\Release\WordToTxt.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\obj\Release\WordToTxt.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\WordToTxtToWordFreq\WordToTxt\obj\Release\WordToTxt.csprojResolveAssemblyReference.cache
